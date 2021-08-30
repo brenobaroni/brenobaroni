@@ -1,5 +1,11 @@
 ### Hi there 👋
+🔭 I’m currently working on .Net Core/Angular and Studing .Net Core 6 Preview
 
+ <div>
+  <a href="https://github.com/brenobaroni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenobaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobaroni&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **brenobaroni/brenobaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

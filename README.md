@@ -1,5 +1,5 @@
 ### Hi my name is Breno, your project can be mine too👋
-🔭 I’m currently working on C# .Net Core/Angular and ReactJS i am currenty studying NodeJS. 
+🔭 I’m currently working on C# .Net Core/Angular and ReactJS and currenty studying NodeJS. 
 
  <div>
   <a href="https://github.com/brenobaroni">

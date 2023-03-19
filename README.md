@@ -1,5 +1,5 @@
 ### Hi my name is Breno, your project can be mine too👋
-🔭 I’m currently working on .Net Core/Angular and Studing .Net Core 6 Preview
+🔭 I’m currently working on C# .Net Core/Angular and ReactJS i am currenty studying NodeJS. 
 
  <div>
   <a href="https://github.com/brenobaroni">
@@ -11,6 +11,8 @@
    <img align="center" alt="Baroni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Baroni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Baroni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Baroni-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<img align="center" alt="Baroni-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg">
   <img align="center" alt="Baroni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Baroni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/lnzb_NOYs1cAAAAM/baby-yoda.gif">

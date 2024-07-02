@@ -1,5 +1,5 @@
 ### Hi my name is Breno, your project can be mine too👋
-🔭 I’m currently working on C# .Net Core/Angular and ReactJS and currenty studying NodeJS. 
+🔭 I’m currently working as a Tech Lead C# .Net Core, Angular, React, NodeJS.
 
 Servfy StartUp Owner Project www.about.servfy.com.br
 

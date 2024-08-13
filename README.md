@@ -1,7 +1,7 @@
 ### Hi my name is Breno, your project can be mine too👋
 🔭 I’m currently working as a Tech Lead C# .Net Core, Angular, React, NodeJS.
 
-Servfy StartUp Owner Project www.about.servfy.com.br
+Servfy StartUp Owner Project www.servfy.com.br
 
  <div>
   <a href="https://github.com/brenobaroni">

@@ -1,7 +1,7 @@
 ### Hi my name is Breno, your project can be mine too👋
-🔭 I’m currently working as a Tech Lead C# .Net Core, Angular, React, NodeJS.
+🔭 I’m currently working as a Senior Dev using C# .Net Core, Angular, React(nextJS), NodeJS(NestJS).
 
-Servfy StartUp Owner Project www.servfy.com.br
+Consultancy by baronitech.com.br
 
  <div>
   <a href="https://github.com/brenobaroni">

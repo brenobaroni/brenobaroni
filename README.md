@@ -1,8 +1,6 @@
 ### Hi my name is Breno, your project can be mine too👋
 🔭 I’m currently working as a Senior Dev using C# .Net Core, Angular, React(nextJS), NodeJS(NestJS).
 
-Consultancy by baronitech.com.br
-
  <div>
   <a href="https://github.com/brenobaroni">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenobaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->

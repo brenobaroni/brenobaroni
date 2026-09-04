@@ -1,5 +1,7 @@
-### Hi my name is Breno, your project can be mine too👋
-🔭 I’m currently working as a Senior Dev using C# .Net Core, Angular, React(nextJS), NodeJS(NestJS).
+### Hi my name is Breno👋
+🔭 I’m currently working as a IA Engineer | Senior Fullstack Developer and Cloud Engineer.
+
+**Let technology find the way. This is the way.**
 
  <div>
   <a href="https://github.com/brenobaroni">
